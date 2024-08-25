@@ -1,11 +1,17 @@
-<div style="display: flex; align-items: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-shabab-ahmeds-projects-847bf735.vercel.app/api?username=shabab239&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-shabab-ahmeds-projects-847bf735.vercel.app/api/top-langs/?username=shabab239&count_private=true&hide=html,css,javascript,scss,php&layout=compact&theme=radical&langs_count=4" alt="Top Langs">
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats-shabab-ahmeds-projects-847bf735.vercel.app/api?username=shabab239&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" height="200">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats-shabab-ahmeds-projects-847bf735.vercel.app/api/top-langs/?username=shabab239&count_private=true&hide=html,css,javascript,scss,php&layout=compact&langs_count=4" alt="Top Langs" height="200">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
