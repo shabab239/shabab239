@@ -22,9 +22,6 @@
   <a href="mailto:shabab239@example.com" target="_blank" rel="noreferrer" title="Email">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40"/>
   </a>
-  <a href="https://github.com/shabab239" target="_blank" rel="noreferrer" title="GitHub">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
-  </a>
 </p>
 
 <table>
@@ -32,6 +29,11 @@
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats-shabab-ahmeds-projects-847bf735.vercel.app/api?username=shabab239&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" height="200">
+      </a>
+    </td>
+        <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats-shabab-ahmeds-projects-847bf735.vercel.app/api/top-langs/?username=shabab239&count_private=true&hide=html,css,javascript,scss,php&layout=compact&theme=radical&langs_count=4" alt="Top Langs" height="200">
       </a>
     </td>
   </tr>
