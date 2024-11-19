@@ -1,7 +1,10 @@
 <h1 align="center">Welcome 👋</h1>
 
 <p align="center">
-  I'm a passionate developer and aspiring full-stack architect, always learning and trying out exciting projects. 🚀
+  <p align="center" style="font-size: 18px;">
+  🌟 Hi, I'm <b>Shabab Ahmed</b>, a full-stack architect, interested in ERP solutions. 🌟 <br>
+</p>
+
 </p>
 
 <p align="center">
