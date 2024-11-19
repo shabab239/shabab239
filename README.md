@@ -1,3 +1,29 @@
+<h1 align="center">Welcome 👋</h1>
+
+<p align="center">
+  I'm a passionate developer and aspiring full-stack architect, always learning and trying out exciting projects. 🚀
+</p>
+
+<p align="center">
+  <img src="lyf.gif" alt="Welcome GIF" width="480" height="270"/>
+</p>
+
+<p align="center">
+  🌟 Let's connect and collaborate! Feel free to reach out. 🌟
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shabab239/" target="_blank" rel="noreferrer" title="LinkedIn">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="mailto:shabab239@example.com" target="_blank" rel="noreferrer" title="Email">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/shabab239" target="_blank" rel="noreferrer" title="GitHub">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>
+
 <table>
   <tr>
     <td>
