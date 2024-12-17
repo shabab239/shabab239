@@ -7,9 +7,9 @@
 
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="lyf.gif" alt="Welcome GIF" width="480" height="270"/>
-</p>
+</p> -->
 
 <p align="center">
   🌟 Let's connect and collaborate! Feel free to reach out. 🌟
