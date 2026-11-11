@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shabab Ahmed 👋</h1>
+<h1 align="center">Hi, I'm Shabab Ahmed</h1>
 
 <p align="center">
   <b>Full-stack architect building ERP and school-management software in Bangladesh.</b><br>
@@ -14,14 +14,15 @@
   </a>
 </p>
 
-## 🔭 What I work on
+## What I work on
 
-- 🏫 **School-management ERP**: admissions, exams and results, fees, attendance, SMS and push notifications for educational institutes, with web and mobile apps.
-- 📱 **Mobile apps**: personal finance and community apps built with Flutter and Firebase.
-- 🏝️ **WindyLand**: a free, open-source Dynamic-Island-style notch for Windows, written in Rust.
-- 🧾 **Estate and consulting ERPs**: property management and engineering-consultancy systems for clients.
+- **School-management ERP**: admissions, exams and results, fees, attendance, SMS and push notifications for educational institutes, with web and mobile apps.
+- **Estate and consulting ERPs**: property management and engineering-consultancy systems for clients.
+- **Mobile apps**: personal finance and community apps built with Flutter and Firebase.
+- **Automation**: AI-agent workflows, business process automation, Android bots and custom ROM tinkering.
+- **WindyLand**: a free, open-source Dynamic-Island-style notch for Windows, written in Rust.
 
-## ⭐ Featured project
+## Featured project
 
 <table>
   <tr>
@@ -33,7 +34,7 @@
   </tr>
 </table>
 
-## 📊 Stats
+## Stats
 
 <table>
   <tr>
@@ -50,14 +51,22 @@
   </tr>
 </table>
 
-## 🛠️ Tech stack
+## Tech stack
+
+**Backend**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![FreeMarker](https://img.shields.io/badge/FreeMarker-2E7DB5?style=for-the-badge&logo=apache&logoColor=white)
+
+**Databases**
+
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logoColor=white)
+
+**Web**
+
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -65,13 +74,19 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Mobile**
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Systems and tools**
+
 ![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🤝 Let's connect
+## Let's connect
 
 Open to collaboration on ERP, school-management and Flutter projects. Reach me on [LinkedIn](https://www.linkedin.com/in/shabab239/).
