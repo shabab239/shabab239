@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shabab Ahmed</h1>
 
 <p align="center">
-  <b>Full-stack architect building ERP and school-management software in Bangladesh.</b><br>
+  <b>Full-stack architect building ERP and EdTech software in Bangladesh.</b><br>
   Java and Spring on the backend, Vue and Flutter up front, and a Rust side project for fun.
 </p>
 
@@ -16,7 +16,7 @@
 
 ## What I work on
 
-- **School-management ERP**: admissions, exams and results, fees, attendance, SMS and push notifications for educational institutes, with web and mobile apps.
+- **EdTech**: school-management platform covering admissions, exams and results, fees, attendance, SMS and push notifications, with web and mobile apps.
 - **Estate and consulting ERPs**: property management and engineering-consultancy systems for clients.
 - **Mobile apps**: personal finance and community apps built with Flutter and Firebase.
 - **Automation**: AI-agent workflows, business process automation, Android bots and custom ROM tinkering.
@@ -89,4 +89,4 @@
 
 ## Let's connect
 
-Open to collaboration on ERP, school-management and Flutter projects. Reach me on [LinkedIn](https://www.linkedin.com/in/shabab239/).
+Open to collaboration on ERP, EdTech and Flutter projects. Reach me on [LinkedIn](https://www.linkedin.com/in/shabab239/).
